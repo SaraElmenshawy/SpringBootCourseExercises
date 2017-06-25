@@ -4,6 +4,10 @@ public class Topic {
 	private String id;
 	private String title;
 	private String description;
+
+	public Topic() {
+	
+	}
 	
 	public Topic(String id, String title, String description) {
 		super();
